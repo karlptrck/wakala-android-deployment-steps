@@ -5,9 +5,9 @@ Deployment guide for production build and deployment.
 1. Create a new branch from the current working branch possibly ( feature-[name] / bug-fix-[bugId] / hotfix-[bugId] )
 2. Name the new branch with **release-[versionName]**
 3. Switch to newly created branch and continue with 
-[Release Config](https://github.com/karlptrck/wakala-android-deployment-steps/new/master?readme=1#release-config)
+[Release Config](https://github.com/karlptrck/wakala-android-deployment-steps#release-config)
 and
-[APK Packaging](https://github.com/karlptrck/wakala-android-deployment-steps/new/master?readme=1#apk-packaging)
+[APK Packaging](https://github.com/karlptrck/wakala-android-deployment-steps#apk-packaging)
 4. **Once build was deployed successfully to the App Store**, 
 merge the **release branch** back to **dev and master branch** and delete it afterwards.
 
